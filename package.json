@@ -1,0 +1,16 @@
+{
+  "name": "poloniex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autobahn": "^17.5.2",
+    "colors": "^1.1.2",
+    "poloniex-api-node": "^1.6.2"
+  }
+}
